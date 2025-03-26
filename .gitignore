@@ -4,6 +4,8 @@ dist
 docs/.vuepress/dist
 storybook-static
 coverage
+.github
+.github/*
 
 # local env files
 .env.local
@@ -26,4 +28,3 @@ pnpm-debug.log*
 *.iml
 .temp
 .cache
-.github
